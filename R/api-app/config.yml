@@ -1,5 +1,0 @@
-default:
-  base_url: "localhost:5762"
-  
-rsconnect:
-  base_url: "https://colorado.rstudio.com/rsc/carmodel"
